@@ -1,11 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7b5f2bf1-ce02-4c01-9ab9-5c62b85361dc" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../buddendorff_p1/src/ArithmeticPractice.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Application.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SavingsAccount.java" afterDir="false" />
-    </list>
+    <list default="true" id="7b5f2bf1-ce02-4c01-9ab9-5c62b85361dc" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -75,7 +71,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>

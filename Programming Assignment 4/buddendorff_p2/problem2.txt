@@ -1,0 +1,9 @@
+cat
+cat
+fish
+fish
+fish
+dog
+dog
+dog
+dog
